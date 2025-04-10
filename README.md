@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Jasdeep Chahal
 
-<!--
-**JasdeepChahal6/JasdeepChahal6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me:
+I am a **Computer Science** student at **Rutgers University New-Brunswick**, passionate about exploring the realms of **coding**, and building **robust** applications.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Up To:
+- 💻 Building **Spring Boot** applications with **PostgreSQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my [coding portfolio](https://jasdeepchahal6.github.io/Portfolio/)
+
+## 🎓Content Creator:
+I'm also an coding content creator, documenting and sharing my passion for coding:
+
+- [Instagram](https://www.instagram.com/jazzy.codes/)
+
+## 🌐 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/jasdeep-chahal999/)
+
+## 💻 Tech Stack:
+**Languages**: Java, SQL, HTML5, CSS, JavaScript
+
+**Developer Tools**: Postman, Git, Excel
+
+**Libraries/Frameworks**: Spring Boot, ReactJS, mySQL, NodeJS, BootStrap
